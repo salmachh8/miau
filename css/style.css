@@ -314,6 +314,7 @@ body {
 header{
     background-color: #dba3b3 ;
     margin: 0;
+    size: 100%;
 }
 .container {
     max-width: 800px; /* Ancho máximo del texto */
